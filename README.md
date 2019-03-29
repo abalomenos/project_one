@@ -1,6 +1,6 @@
 # YodaQuo
 
-YodaQuo is an inspirational quote generator dedicated to preserving the language of the beloved Jedi Master, Yoda. This App utilizes 2 APIs - [Quotes Rest API](https://quotes.rest) and [FunTranslations API](https://api.funtranslations.com/).
+YodaQuo is an inspirational quote generator dedicated to preserving the language of the beloved Jedi Master, Yoda. This App utilizes 2 APIs - [Quotes Rest API](https://quotes.rest) and [FunTranslations API](https://api.funtranslations.com/), jQuery Ajax and Firebase as the Back-End database.
 
 
 ## Technologies
@@ -8,7 +8,7 @@ YodaQuo is an inspirational quote generator dedicated to preserving the language
 Fron-End
 * HTML
 * CSS
-* JQuery
+* jQuery
 * Ajax
 
 Back-End
