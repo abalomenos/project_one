@@ -1,10 +1,9 @@
 # YodaQuo
 
-### Description
+YodaQuo is an inspirational quote generator dedicated to preserving the language of the beloved Jedi Master, Yoda. This App utilizes 2 APIs - [https://quotes.rest](Quotes Rest API) and [https://api.funtranslations.com/](FunTranslations API).
 
-Lorem ipsum dolor sit amet, eum ea aperiam euripidis, rebum convenire scripserit at pro.
 
-### Technologies
+## Technologies
 
 Fron-End
 * HTML
@@ -15,8 +14,9 @@ Fron-End
 Back-End
 * Firebase
 
-### Demo
 
-http://www.skycomtech.com/portfolio/yodaquo.html
+## Demo
+The Web App is hosted on GitHub Pages. Link: [https://abalomenos.github.io/yodaquo/](https://abalomenos.github.io/yodaquo/).
 
+## Demo
 ![Alt text](assets/images/demo.png?raw=true "Demo")
