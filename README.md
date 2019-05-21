@@ -19,4 +19,4 @@ Back-End
 The Web App is hosted on GitHub Pages. Link: [https://abalomenos.github.io/yodaquo/](https://abalomenos.github.io/yodaquo/).
 
 ## Demo
-![Alt text](assets/images/demo.png?raw=true "Demo")
+![Alt text](assets/images/demoFinal.png?raw=true "Demo")
